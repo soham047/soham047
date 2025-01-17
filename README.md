@@ -10,12 +10,12 @@
 ## 🔍 About Me
 
 - 🎓 **3rd Year CSE Student** with a keen interest in AI and ML.
-- 🛠️ Experienced in **Python**, **Java**, and **C**.
-- 🌟 Currently learning and exploring **Android Development** and **Graphic Design**.
+- 🛠️ Experienced in **Python**, **Java**, **C**, **HTML**, **CSS** and **Java Script**.
+- 🌟 Currently learning and exploring **Web Development** and **Reinforcement Learning**.
 - 🤖 Built projects like:
   - 🌐 **ValidGram.AI**: A web application to detect suspicious activities by Instagram Accounts.
   - 📊 **SymptoAI**: AI-Driven Health Prediction Application.
-- 🎨 A creative mind with a knack for **visual media editing**.
+- 🎨 A creative mind with a knack for **Visual Arts**.
 
 ---
 
@@ -25,9 +25,9 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=html&logoColor=white)
-![CSS](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=css&logoColor=white)
-![Java Script](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=js&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### My top Languages :
 
@@ -53,24 +53,18 @@
 ## 🌟 Highlights
 
 - 🏅 **Digital Marketing Certified** by Accenture (Future Learn).
-- 📈 Achieved **80.72% accuracy** in diabetes prediction using K-Neighbors Classifier.
-- 📑 Published a report: *Market Segmentation of Electric Vehicles in India*.
+- 📈 **Artificial Intelligence Certified** by Infosys (Springboard).
+- Contributed to solving **Real World Projects**.
 - 🌟 Attended **DevFest Ranchi 2024**.
 
----
-
-## 📊 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 📧 Email: your.email@example.com
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn] : (https://www.linkedin.com/in/soham-dutta-124b0a256/)
+- 📧 [Email] : sohamdutta047@gmail.com
+- 🌐 [Portfolio]
 
 ---
 
