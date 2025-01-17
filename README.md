@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile! 🚀
 
-<div align="center">
+<div align="center" style="display: flex; align-items: center;">
   <h1 style="margin: 0;"><i>I'm a </i></h1>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Coder;Developer;Machine+Learning+Enthusiast;Creative+Designer;Welcome+to+My+World!" alt="Typing Animation" />
 </div>
