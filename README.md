@@ -1,7 +1,8 @@
 # 💻 Welcome to My GitHub Profile! 🚀
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=I'm+a+Coder;I'm+a+Developer;I'm+a+Machine+Learning+Enthusiast;I'm+a+Creative+Designer;Welcome+to+My+World!" alt="Typing Animation" />
+  **I'm a**
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Coder;Developer;Machine+Learning+Enthusiast;Creative+Designer;Welcome+to+My+World!" alt="Typing Animation" />
 </div>
 
 ---
@@ -12,9 +13,8 @@
 - 🛠️ Experienced in **Python**, **Java**, and **C**.
 - 🌟 Currently learning and exploring **Android Development** and **Graphic Design**.
 - 🤖 Built projects like:
-  - 🌐 **HealthScope**: A multiple disease predictor web app with smart features like reminders, chatbots, and recommendations.
+  - 🌐 **ValidGram.AI**: A web application to detect suspicious activities by Instagram Accounts.
   - 📊 **SymptoAI**: AI-Driven Health Prediction Application.
-  - 📝 **Legal Document Generator**: Automating legal document creation for small businesses and freelancers.
 - 🎨 A creative mind with a knack for **visual media editing**.
 
 ---
@@ -25,6 +25,17 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![HTML](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=css&logoColor=white)
+![Java Script](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=js&logoColor=white)
+
+### My top Languages :
+
+| Rank | Languages |
+|-----:|-----------|
+|     1| Python    |
+|     2| Java      |
+|     3| C         |
 
 ### Frameworks & Tools:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
