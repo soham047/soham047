@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 style="display: inline; margin: 0;"><i>I'm a</i></h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Coder;Developer;Machine+Learning+Enthusiast;Creative+Designer;Welcome+to+My+World!" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=F75C7E&center=true&vCenter=true&width=750&lines=Coder;Developer;Arificial+Intelligence+Enthusiast;Machine+Learning+Enthusiast;Creative+Designer" alt="Typing Animation" />
 </div>
 
 ---
